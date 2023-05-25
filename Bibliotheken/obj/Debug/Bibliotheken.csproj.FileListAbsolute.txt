@@ -1,0 +1,5 @@
+C:\GIT\Bibliotheken\Bibliotheken\bin\Debug\Bibliotheken.dll
+C:\GIT\Bibliotheken\Bibliotheken\bin\Debug\Bibliotheken.pdb
+C:\GIT\Bibliotheken\Bibliotheken\obj\Debug\Bibliotheken.dll
+C:\GIT\Bibliotheken\Bibliotheken\obj\Debug\Bibliotheken.pdb
+C:\GIT\Bibliotheken\Bibliotheken\obj\Debug\Bibliotheken.csprojResolveAssemblyReference.cache
